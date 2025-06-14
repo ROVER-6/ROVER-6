@@ -14,7 +14,3 @@
 </div>
 
 ###
-
-<img src="https://raw.githubusercontent.com/ROVER-6/ROVER-6/output/snake.svg" alt="Snake animation" />
-
-###
