@@ -14,3 +14,15 @@
 </div>
 
 ###
+
+<h1 align="left"></h1>
+
+###
+
+<div align="center">
+  <a href="https://open.spotify.com/user/alfiemcdermski">
+    <img src="https://spotify-recently-played-readme.vercel.app/api?user=alfiemcdermski&count=5" alt="Spotify recently played"  />
+  </a>
+</div>
+
+###
