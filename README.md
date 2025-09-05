@@ -22,13 +22,3 @@
 ###
 
 <h3 align="center"></h3>
-
-###
-
-<div align="center">
-  <a href="https://open.spotify.com/user/alfiemcdermski">
-    <img src="https://spotify-recently-played-readme.vercel.app/api?user=alfiemcdermski&count=3" alt="Spotify recently played"  />
-  </a>
-</div>
-
-###
